@@ -7,3 +7,4 @@ Git is a free software distributed under the GPL .
 新添加
 这是一次新的改动
 请查看！
+Git tracks changes .
